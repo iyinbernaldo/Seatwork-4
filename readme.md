@@ -1,6 +1,6 @@
 ## Overview
 
-Description of the project in details.
+A website to showcase two different layout, one very simple and very basic layout, and one more modern layout using paralax image.
 
 - A site that showcases two different layouts
 - Uses only HTML and CSS
